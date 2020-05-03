@@ -78,9 +78,12 @@ a:hover {
   line-height: 1;
   max-width: 849px;
   margin: auto;
+  text-align: center;
+  padding-bottom: 20px;
 }
 
 .cover__subtitle {
+  padding-top: 20px;
   font-size: 24px;
   width: 70%;
   margin-top: 50px;
