@@ -67,8 +67,9 @@ a:hover {
   position: absolute;
   z-index: 10;
   top: 20vh;
-  padding: 0 auto;
-  width: 90%;
+  padding-left: 10%;
+  padding-right: 10%;
+  width: 80%;
   margin: auto;
 }
 
