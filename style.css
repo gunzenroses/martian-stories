@@ -77,6 +77,7 @@ a:hover {
   font-size: calc(3vw + 3vh);
   line-height: 1;
   max-width: 849px;
+  margin: auto;
 }
 
 .cover__subtitle {
@@ -84,6 +85,7 @@ a:hover {
   width: 70%;
   margin-top: 50px;
   line-height: 1.5;
+  margin: auto;
 }
 
 .content {
